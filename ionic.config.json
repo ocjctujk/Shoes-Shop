@@ -1,0 +1,7 @@
+{
+  "name": "Shopishopi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
